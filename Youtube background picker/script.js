@@ -20,6 +20,6 @@ function partyBlue (){
 }
 
 function partyRed (){
-    document.querySelector('body').style.backgroundColor = 'red'
+    document.querySelector('body').style.backgroundColor = '#d4c0ff'
     document.querySelector('body').style.color = 'white'
 }
